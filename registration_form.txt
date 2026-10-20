@@ -1,0 +1,4 @@
+request form
+
+1 insert the email, name, age, sex
+2 create the user
